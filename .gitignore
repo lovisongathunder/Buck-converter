@@ -1,0 +1,12 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Generated simulation files (large and reproducible)
+sims/
+
+# Editor and OS
+.vscode/
+Thumbs.db

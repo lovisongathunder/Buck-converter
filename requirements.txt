@@ -1,0 +1,5 @@
+spicelib
+jinja2
+numpy
+matplotlib
+pytest
